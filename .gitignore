@@ -129,3 +129,5 @@ dmypy.json
 .pyre/
 
 machinehack_ml_merchandise_popularity_prediction_without.ipynb
+
+Pycaret-Merchadise-Popularity-Prediction.ipynb
